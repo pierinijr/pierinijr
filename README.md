@@ -1,2 +1,2 @@
 # Luciano Pimenta
-mailto:l.a.p.pimenta.j@gmail.com
+l.a.p.pimenta.j@gmail.com
