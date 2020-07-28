@@ -4,3 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-363636?style=flat-square&logo=Gmail&logoColor=FF6347&link=mailto:l.a.p.pimenta.j@gmail.com)](mailto:l.a.p.pimenta.j@gmail.com)
 
 
+Apaixonado pela evolução das Tecnologias e por desenvolvimento pessoal. Sempre em busca de desafios que me proporcionam resolver problemas e ajudar pessoas.
+
+Atualmente estou me dedicando a ser um Desenvolvedor FullStack pela Rocketseat, e ter a melhor base de experiência possível nesse universo de desenvolvimento.
