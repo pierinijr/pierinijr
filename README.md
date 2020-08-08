@@ -8,5 +8,6 @@ Sou apaixonado por toda essa evolução que os universos de Tecnologia estão te
 Sempre estou em busca de desafios que me proporcionam resolver problemas e principalmente ajudar as pessoas. 
 
  :purple_heart: &nbsp; Buscando desenvolver projetos no Front-end e Back-end.
+ <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música.
- <br/> :email: &nbsp; Entre em contato comigo: 
+ 
