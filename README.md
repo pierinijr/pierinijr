@@ -5,15 +5,10 @@
 
 Sou apaixonado por toda essa evolução que os universos de Tecnologia estão tendo.
 
-Sempre estou em busca de desafios que me proporcionam resolver problemas e principalmente ajudar as pessoas. 
+Sempre estou em busca de desafios que me proporcionam resolver problemas e principalmente ajudar as pessoas.
 
  :purple_heart: &nbsp; Buscando desenvolver projetos no Front-end e Back-end.
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música.
-<<<<<<< HEAD
- <br/> :email: &nbsp; Entre em contato comigo: 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
 
 <img src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
-=======
- 
->>>>>>> e25ea67e7cfb87f0c272e3ad4e30a29d2448e287
