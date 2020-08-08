@@ -11,3 +11,5 @@ Sempre estou em busca de desafios que me proporcionam resolver problemas e princ
  :purple_heart: &nbsp; Buscando desenvolver projetos no Front-end e Back-end.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música.
  <br/> :email: &nbsp; Entre em contato comigo: 
+
+<img src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
