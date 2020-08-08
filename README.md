@@ -1,17 +1,9 @@
-# Luciano Pimenta
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+<h1 align="center">Olá pessoal 👋 Eu sou o Luciano Pimenta</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-363636?style=flat-square&logo=Linkedin&logoColor=00BFFF&link=https://www.linkedin.com/)](https://img.shields.io/badge/-LinkedIn-363636?style=flat-square&logo=Linkedin&logoColor=00BFFF&link=https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-363636?style=flat-square&logo=Gmail&logoColor=FF6347&link=mailto:l.a.p.pimenta.j@gmail.com)](mailto:l.a.p.pimenta.j@gmail.com)
-
-
-Apaixonado pela evolução das Tecnologias e por desenvolvimento pessoal. Sempre em busca de desafios que me proporcionam resolver problemas e ajudar pessoas.
-
-Atualmente estou me dedicando a ser um Desenvolvedor FullStack pela Rocketseat, e ter a melhor base de experiência possível nesse universo de desenvolvimento.
-
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-## Olá pessoal 👋
 
 Sou apaixonado por toda essa evolução das Tecnologias. 
 
