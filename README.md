@@ -3,9 +3,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-363636?style=flat-square&logo=Linkedin&logoColor=00BFFF&link=https://www.linkedin.com/)](https://img.shields.io/badge/-LinkedIn-363636?style=flat-square&logo=Linkedin&logoColor=00BFFF&link=https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-363636?style=flat-square&logo=Gmail&logoColor=FF6347&link=mailto:l.a.p.pimenta.j@gmail.com)](mailto:l.a.p.pimenta.j@gmail.com)
 
-Sou apaixonado por toda essa evolução que os universos de Tecnologia estão tendo.
+Sou apaixonado por toda evolução do universos da Tecnologia.
 
-Sempre estou em busca de desafios que me proporcionam resolver problemas e principalmente ajudar as pessoas.
+Estou sempre em busca de desafios que me proporcionam resolver problemas e principalmente ajudar pessoas.
 
  :purple_heart: &nbsp; Buscando desenvolver projetos no Front-end e Back-end.
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
