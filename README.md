@@ -12,9 +12,7 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
 
 <img width="400px" src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
-<a href="https://github.com/pimentajr">
-  <img align="top" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentajr&layout=compact&theme=dark" alt="pimentajr" />
-</a>
+
 
 
 
