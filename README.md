@@ -13,4 +13,4 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
 
 <img src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?pimentajr=anuraghazra&repo=github-readme-stats)](https://github.com/pimentajr/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pimentajr&repo=github-readme-stats)](https://github.com/pimentajr/github-readme-stats)
