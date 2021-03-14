@@ -12,3 +12,5 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
 
 <img src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?pimentajr=anuraghazra&repo=github-readme-stats)](https://github.com/pimentajr/github-readme-stats)
