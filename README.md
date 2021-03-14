@@ -13,4 +13,9 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
 
 <img src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pimentajr&repo=github-readme-stats)](https://github.com/pimentajr/github-readme-stats)
+<a href="https://github.com/pimentajr">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=pimentajr&show_icons=true&theme=dracula" alt="pimentajr" />
+</a>
+<a href="https://github.com/pimentajr">
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentajr&layout=compact&theme=dracula" alt="pimentajr" />
+</a>
