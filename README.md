@@ -11,9 +11,11 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
 
-<a align="center" href="https://github.com/pimentajr">
+<a href="https://github.com/pimentajr">
   <img width="400px" src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
-  <img width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentajr&layout=compact&theme=dark" alt="pimentajr" />
+</a>
+<a href="https://github.com/pimentajr">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentajr&layout=compact&theme=dark" alt="pimentajr" />
 </a>
 
 
