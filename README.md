@@ -1,7 +1,7 @@
 # Olá pessoal 👋 Eu sou o Luciano Pimenta
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-363636?style=flat-square&logo=Linkedin&logoColor=00BFFF&link=https://www.linkedin.com/in/pimentajr/)](https://www.linkedin.com/in/pimentajr/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-363636?style=flat-square&logo=Gmail&logoColor=FF6347&link=mailto:l.a.p.pimenta.j@gmail.com)](mailto:l.a.p.pimenta.j@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luciano%20Pimenta-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pimentajr/)](https://www.linkedin.com/in/pimentajr/)
+[![Gmail Badge](https://img.shields.io/badge/-l.a.p.pimenta.j@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.a.p.pimenta.j@gmail.com)](mailto:l.a.p.pimenta.j@gmail.com)
 
 Sou apaixonado por toda evolução dos universos da Tecnologia.
 
