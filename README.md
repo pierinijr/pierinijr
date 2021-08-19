@@ -7,11 +7,11 @@ Sou apaixonado por toda evolução dos universos da Tecnologia.
 
 Estou sempre em busca de desafios que me proporcionam resolver problemas e principalmente ajudar pessoas.
 
- :purple_heart: &nbsp; Buscando desenvolver projetos no Front-end e Back-end.
+ :purple_heart: &nbsp; Desenvolvendo projetos no Front-end.
+ <br/> :books: &nbsp; Estudando Back-end.
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
 
-<img width="400px" src="https://ik.imagekit.io/PimentaJR/Violin_Xr7GIpMgm.gif">
 
 
 
