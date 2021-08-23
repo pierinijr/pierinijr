@@ -23,7 +23,7 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
 
-Acesse meu [Cúrriculo](https://drive.google.com/file/d/1zPDS2FzWcwAxMVyXOrKjFdok1HeAd3O6/view?usp=sharing para mais informações.
+Acesse meu [Cúrriculo](https://drive.google.com/file/d/1zPDS2FzWcwAxMVyXOrKjFdok1HeAd3O6/view?usp=sharing) para mais informações.
 
 
 
