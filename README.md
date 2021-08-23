@@ -11,6 +11,10 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
  <br/> :books: &nbsp; Estudando Back-end.
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
+ 
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
