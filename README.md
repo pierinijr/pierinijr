@@ -7,8 +7,7 @@ Sou apaixonado por toda evolução dos universos da Tecnologia.
 
 Estou sempre em busca de desafios que me proporcionam resolver problemas e principalmente ajudar pessoas.
 
- :purple_heart: &nbsp; Desenvolvendo projetos no Front-end.
- <br/> :books: &nbsp; Estudando Back-end.
+ :purple_heart: &nbsp; Desenvolvendo projetos no Front-end, Back-end e Mobile.
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
  
