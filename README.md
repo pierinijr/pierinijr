@@ -11,7 +11,7 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
  
-Acesse meu [currículo](https://drive.google.com/file/d/1w3QSVWYgKNEomluEgP-ElZC2p2l5H46i/view?usp=sharing) ou meu [portfólio](https://pimentajr.github.io/portfolio/) para mais informações.
+Acesse meu [currículo](https://drive.google.com/file/d/1OzJNYdIp5t3uSlPnyAfO5cIQmHvvHIQe/view?usp=sharing) ou meu [portfólio](https://pimentajr.github.io/portfolio/) para mais informações.
  
 **Linguagens e Ferramentas:**
 
