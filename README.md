@@ -11,7 +11,7 @@ Estou sempre em busca de desafios que me proporcionam resolver problemas e princ
  <br/> :blush: &nbsp; Será um prazer te ajudar! 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, sou violinista e amo Música. 
  
-Acesse meu [currículo](https://drive.google.com/file/d/1OzJNYdIp5t3uSlPnyAfO5cIQmHvvHIQe/view?usp=sharing) ou meu [portfólio](https://pimentajr.github.io/portfolio/) para mais informações.
+Acesse meu [currículo](https://drive.google.com/file/d/1Zj2K5B-UXi9LE34WB3pGdj2qdpDzKrj1/view?usp=share_link) para mais informações.
  
 **Linguagens e Ferramentas:**
 
@@ -30,6 +30,8 @@ Acesse meu [currículo](https://drive.google.com/file/d/1OzJNYdIp5t3uSlPnyAfO5cI
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
 
 
 
